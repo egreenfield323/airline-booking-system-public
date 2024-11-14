@@ -17,7 +17,7 @@ This project is a simple airline booking system implemented in Java, using a MyS
 ### 1. Clone the Repository
 Download or clone the project repository to your local machine:
 ```bash
-git clone <repository-url>
+git clone egreenfield323/airline-booking-system-public
 ```
 
 ### 2. Configure Your IDE
